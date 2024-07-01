@@ -32,6 +32,8 @@ in {
 
     ./image.nix
     ./otter.nix
+
+    ./neorg.nix
   ];
 
   enableMan = true;
